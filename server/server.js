@@ -17,7 +17,7 @@ io.on('connection', function(socket){
 
 // 	console.log('this is connect',socket.id);
 
-// 	socket.emit('connected123', 'connect');123
+// 	socket.emit('connected123', 'connect');
 // });
 
 
